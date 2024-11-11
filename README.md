@@ -1,6 +1,6 @@
 # Clock Display Project
 
-## This project is a simple yet functional clock display that allows the user to toggle between an analog and digital clock. The application is built using Vue.js and demonstrates basic state management, component interaction, and CSS styling techniques.
+This project is a simple yet functional clock display that allows the user to toggle between an analog and digital clock. The application is built using Vue.js and demonstrates basic state management, component interaction, and CSS styling techniques.
 
 ## Features
 
